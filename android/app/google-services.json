@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128132179512",
+    "project_id": "smartpen-flutter-project",
+    "storage_bucket": "smartpen-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128132179512:android:88e7c7df0daa2a755128cd",
+        "android_client_info": {
+          "package_name": "com.devmari.smartpen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128132179512-4sbknk9ejf7jo01ti773tqj50dttssk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqA48YqtR8hr42E_xevF5ou1-oyzb8R_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128132179512-4sbknk9ejf7jo01ti773tqj50dttssk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
